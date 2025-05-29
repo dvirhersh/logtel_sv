@@ -10,3 +10,4 @@
 *.webtalk/
 *.vivado/
 *.sdk/
+*.xpr
