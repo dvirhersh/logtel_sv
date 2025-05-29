@@ -1,2 +1,12 @@
 *.log
-vivado_project.cache/
+*.jou
+*.str
+*.cache/
+*.hw/
+*.runs/
+*.ip_user_files/
+*.sim/
+*.Xil/
+*.webtalk/
+*.vivado/
+*.sdk/
