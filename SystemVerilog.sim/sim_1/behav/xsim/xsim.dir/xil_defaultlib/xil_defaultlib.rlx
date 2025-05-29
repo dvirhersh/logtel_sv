@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/fpga_course_logtel_2025/SystemVerilog/SystemVerilog.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/fpga_course_logtel_2025/SystemVerilog/SystemVerilog.srcs/sim_1/imports/new/LED_manager_tb.sv,1748519050,systemVerilog,,,,LED_manager_tb,,,,,,,,
+C:/fpga_course_logtel_2025/SystemVerilog/SystemVerilog.srcs/sources_1/new/LED_manager.sv,1748518267,systemVerilog,,C:/fpga_course_logtel_2025/SystemVerilog/SystemVerilog.srcs/sources_1/new/register8.sv,,LED_manager_sv,,,,,,,,
+C:/fpga_course_logtel_2025/SystemVerilog/SystemVerilog.srcs/sources_1/new/register8.sv,1748516142,systemVerilog,,C:/fpga_course_logtel_2025/SystemVerilog/SystemVerilog.srcs/sim_1/imports/new/LED_manager_tb.sv,,register8_sv,,,,,,,,
