@@ -15,10 +15,10 @@ add_files -fileset sources_1 ./$proj_name/rtl/nuclear_monitor.sv
 # Set top module for synthesis
 set_property top nuclear_monitor [get_filesets sources_1]
 
-# Add simulation sources
-add_files -fileset sim_1 ./$proj_name/simulation/nuclear_monitor_tb.sv
+# Add sim sources
+add_files -fileset sim_1 ./$proj_name/sim/nuclear_monitor_tb.sv
 
-# Set top module for simulation
+# Set top module for sim
 set_property top nuclear_monitor_tb [get_filesets sim_1]
 
 # Optional: run synthesis
@@ -26,3 +26,5 @@ set_property top nuclear_monitor_tb [get_filesets sim_1]
 # wait_on_run synth_1
 
 puts "Project '$proj_name' created successfully at: $proj_dir"
+
+set_property xsim.view "C:/Vivado_projects/logtel_sv/logtel_lab3_nuclear/nuclear_monitor_tb_behav1.wcfg" [get_filesets sim_1]

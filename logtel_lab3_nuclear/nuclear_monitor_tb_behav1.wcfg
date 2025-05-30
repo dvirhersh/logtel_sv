@@ -11,13 +11,13 @@
       </db_ref>
    </db_ref_list>
    <zoom_setting>
-      <ZoomStartTime time="4517373fs"></ZoomStartTime>
-      <ZoomEndTime time="18480165fs"></ZoomEndTime>
+      <ZoomStartTime time="300199994fs"></ZoomStartTime>
+      <ZoomEndTime time="300200002fs"></ZoomEndTime>
       <Cursor1Time time="300200000fs"></Cursor1Time>
    </zoom_setting>
    <column_width_setting>
       <NameColumnWidth column_width="202"></NameColumnWidth>
-      <ValueColumnWidth column_width="98"></ValueColumnWidth>
+      <ValueColumnWidth column_width="94"></ValueColumnWidth>
    </column_width_setting>
    <WVObjectSize size="6" />
    <wvobject fp_name="/nuclear_monitor_tb/uut/CLOCK" type="logic">
@@ -39,7 +39,6 @@
    <wvobject fp_name="/nuclear_monitor_tb/uut/count" type="array">
       <obj_property name="ElementShortName">count[8:0]</obj_property>
       <obj_property name="ObjectShortName">count[8:0]</obj_property>
-      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
    </wvobject>
    <wvobject fp_name="/nuclear_monitor_tb/uut/max_rad" type="array">
       <obj_property name="ElementShortName">max_rad[31:0]</obj_property>
