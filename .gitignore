@@ -1,13 +1,13 @@
-*.log
-*.jou
-*.str
+# *.log
+# *.jou
+# *.str
 *.cache/
 *.hw/
 *.runs/
 *.ip_user_files/
-*.sim/
-*.Xil/
-*.webtalk/
-*.vivado/
-*.sdk/
+# *.sim/
+# *.Xil/
+# *.webtalk/
+# *.vivado/
+# *.sdk/
 *.xpr
