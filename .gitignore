@@ -5,7 +5,7 @@
 *.hw/
 *.runs/
 *.ip_user_files/
-# *.sim/
+*.sim/
 # *.Xil/
 # *.webtalk/
 # *.vivado/
